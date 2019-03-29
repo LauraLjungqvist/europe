@@ -9,6 +9,11 @@ Resources
 - Stock: https://unsplash.com/
 
 Colors
+- Primary: Orange #FFA000
+- Secondary: Yellow #FBC02D
+- Accent: Blue #0288D1
+- Font: Black #303030
+- Background: White #F5F5F5
 
 Links
 - AreWeEurope: https://www.areweeurope.com/
