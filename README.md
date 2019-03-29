@@ -1,21 +1,21 @@
 # europe
 showcase of european countries
 
->> Resources
-Gallery: https://gallery.io/projects/MCHbtQVoQ2HCZZkWJ_fQBCkC
-Bootstrap 4: https://getbootstrap.com/
-Font-family: 'Raleway', sans-serif; <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
-Icons: https://fontawesome.com
-Stock: https://unsplash.com/
+Resources
+- Gallery: https://gallery.io/projects/MCHbtQVoQ2HCZZkWJ_fQBCkC
+- Bootstrap 4: https://getbootstrap.com/
+- Font-family: 'Raleway', sans-serif; <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+- Icons: https://fontawesome.com
+- Stock: https://unsplash.com/
 
->> Colors
+Colors
 
->> Links
-AreWeEurope: https://www.areweeurope.com/
-The Europeans Podcast: https://europeanspodcast.com/
-EU news/updates: http://www.europarl.europa.eu/news
+Links
+- AreWeEurope: https://www.areweeurope.com/
+- The Europeans Podcast: https://europeanspodcast.com/
+- EU news/updates: http://www.europarl.europa.eu/news
 
->> TODO
+TODO
 - gallery
   * turn sketches into wireframe
   * turn wireframe into mockup
