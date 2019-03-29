@@ -4,7 +4,7 @@ showcase of european countries
 Resources
 - Gallery: https://gallery.io/projects/MCHbtQVoQ2HCZZkWJ_fQBCkC
 - Bootstrap 4: https://getbootstrap.com/
-- Font-family: 'Raleway', sans-serif; <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+- Font-family: 'Raleway', sans-serif; (https://fonts.googleapis.com/css?family=Raleway:300,400,700)
 - Icons: https://fontawesome.com
 - Stock: https://unsplash.com/
 
