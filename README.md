@@ -9,7 +9,9 @@ showcase of european countries
 - Icons: https://fontawesome.com
 - Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Theme: https://css-tricks.com/dark-modes-with-css/
+- Accessibility: https://www.w3.org/TR/WCAG20/
 - Aria: https://www.w3.org/TR/wai-aria-practices/
+- Tab: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex
 
 ### Mutuals
 - [AreWeEurope](https://www.areweeurope.com/)
@@ -59,6 +61,7 @@ font-family: 'Lato', sans-serif;
 - bootstrap.min.js (missing)
 
 ### information achitecture
+example.html (missing)
 index.html (missing)
 - home.html (missing)
 - news.html (missing)
@@ -67,9 +70,13 @@ index.html (missing)
   * country.html (missing)
 - support.html (missing)
 - about.html (missing)
-example.html (missing)
 
 # Elements
+
+### Tab
+```
+<div tabindex="0">Tabbable due to tabindex.</div>
+```
 
 ### Image
 ```
@@ -88,6 +95,7 @@ example.html (missing)
   * upload to gallery
 
 ### TODO: CSS
+- decide between [lightsoff](https://designshack.net/articles/css/lightsoff/) or [prefers-color-scheme](https://css-tricks.com/dark-modes-with-css/) for theme toggle
 - create initial theme differences in css to an element, add a theme toggle and test https://css-tricks.com/dark-modes-with-css/
 
 ### TODO: HTML
