@@ -61,8 +61,8 @@ font-family: 'Lato', sans-serif;
 - bootstrap.min.js (missing)
 
 ### information achitecture
-example.html (missing)
-index.html (missing)
+- example.html (missing)
+- index.html (missing)
 - home.html (missing)
 - news.html (missing)
   * article.html (missing)
@@ -83,7 +83,7 @@ index.html (missing)
 <img src="(link)" alt="(description)" title="(img title)" aria-labelledby=""> <p id="(text about the image)"></p>
 ```
 ```
-<img src="" alt="" title="" aria-labelledby=""> <p id="">
+<img src="" alt="" title="" aria-labelledby=""> <p id=""></p>
 ```
 
 # TODO
