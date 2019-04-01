@@ -6,6 +6,7 @@ showcase of european countries
 - Gallery: https://gallery.io/projects/MCHbtQVoQ2HCZZkWJ_fQBCkC
 - Bootstrap 4: https://getbootstrap.com/
 - Stock: https://unsplash.com/
+- Lazyload Images: https://premium.wpmudev.org/blog/smush-image-lazy-load-free/
 - Icons: https://fontawesome.com
 - Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Theme: https://css-tricks.com/dark-modes-with-css/
