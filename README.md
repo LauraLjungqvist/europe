@@ -61,7 +61,7 @@ font-family: 'Lato', sans-serif;
 - europe-nightly.css (missing)
 - bootstrap.min.js (missing)
 
-### information achitecture
+### Site map 
 - example.html (missing)
 - index.html (missing)
 - home.html (missing)
